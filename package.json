@@ -1,0 +1,26 @@
+{
+  "name": "FRESAR",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "parcel ./*.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnetaPy/fresar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnetaPy/fresar/issues"},
+    "homepage": "https://github.com/AnetaPy/fresar#readme",
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  }
+}
