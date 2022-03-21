@@ -1,6 +1,6 @@
 # Fresar - website
 
-A fully responsive website withe offer, gallery and contact section.
+A fully responsive website with an offer, gallery and contact section.
 
 [Check my demo here.](https://anetapy.github.io/fresar/)
 
